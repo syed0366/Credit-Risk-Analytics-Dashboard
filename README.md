@@ -55,3 +55,14 @@ This Power BI project analyzes customer credit profiles, debt exposure, loan beh
 Asif Abbas
 
 Aspiring Data Analyst | SQL | Power BI | Python | Excel
+
+## Dashboard Screenshots
+
+### Overview Dashboard
+![Overview Dashboard](1%20Overview.png)
+
+### Risk Analysis Dashboard
+![Risk Analysis Dashboard](2%20Risk%20Analysis.png)
+
+### Loan Insights Dashboard
+![Loan Insights Dashboard](3%20Loan%20Insights.png)
